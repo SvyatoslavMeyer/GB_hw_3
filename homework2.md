@@ -32,5 +32,5 @@ git config --global user.email ваша почта@example.com
 # **Синтаксис языка Markdown** 
 **Справочник по Markdown от Microsoft:**
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
-
+* **eshe conflitctic, no v rtot eaz ostavlyaem oba!**
 # **Добавление картинок** 
