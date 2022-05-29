@@ -15,6 +15,8 @@ git config --global user.email ваша почта@example.com
 # **Основные команды Git** 
 * **git init** – инициализация локального репозитория
 
+* *создаем конфликтики*
+
 # **Синтаксис языка Markdown** 
 **Справочник по Markdown от Microsoft:**
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
