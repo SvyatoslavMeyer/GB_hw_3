@@ -3,6 +3,16 @@
 
 ![logo_git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
+* Установка Git для Windows, MAC, Linux: https://git-scm.com/downloads
+
+* Установка VSCode для Windows, MAC, Linux: https://code.visualstudio.com/Download
+
+* [Установка Git для Windows, MAC, Linux](https://git-scm.com/downloads)
+
+* [Установка VSCode для Windows, MAC, Linux](https://code.visualstudio.com/Download)
+
+> При первом использовании Git необходимо представиться.  Для этого нужно ввести в терминале 2 команды:
+
 # **Основные команды Git** 
 * **git init** – инициализация локального репозитория
 
